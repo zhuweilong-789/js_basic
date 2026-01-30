@@ -1,0 +1,1 @@
+const a = () => void console.log('Hello, World!'); // 箭头函数，没有返回值，打印Hello, World!
